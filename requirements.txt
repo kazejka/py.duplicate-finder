@@ -1,0 +1,6 @@
+librosa>=0.10.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+cupy-cuda12x>=12.0.0
+cuml-cuda12>=23.8.0
+cudf-cuda12>=23.8.0
